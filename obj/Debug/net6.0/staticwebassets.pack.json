@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "D:\\Repo\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\02.echo-bot\\wwwroot\\default.html",
+      "Id": "D:\\Main Repo\\Echo Bot\\wwwroot\\default.html",
       "PackagePath": "staticwebassets\\default.html"
     },
     {

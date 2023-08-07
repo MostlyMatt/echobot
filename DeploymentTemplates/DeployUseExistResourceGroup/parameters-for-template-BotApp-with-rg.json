@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appServiceName": {
-      "value": ""
+      "value": "echobottest-appservice"
     },
     "existingAppServicePlanName": {
       "value": ""
@@ -30,10 +30,10 @@
       "value": "MultiTenant"
     },
     "appId": {
-      "value": ""
+      "value": "4a352369-65ce-4b71-bba5-7642041ab08b"
     },
     "appSecret": {
-      "value": ""
+      "value": "YFx8Q~oGaF1OJ_qDp5ZEUd3hwrxQ.IxzrnlNGaV-"
     },
     "UMSIName": {
       "value": ""

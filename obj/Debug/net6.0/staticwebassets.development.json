@@ -1,1 +1,1 @@
-{"ContentRoots":["D:\\Repo\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\02.echo-bot\\wwwroot\\"],"Root":{"Children":{"default.html":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"default.html"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["D:\\Main Repo\\Echo Bot\\wwwroot\\"],"Root":{"Children":{"default.html":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"default.html"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

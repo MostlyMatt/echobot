@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Main Repo\\Echo Bot\\EchoBot.csproj": {}
+    "D:\\Main Repo\\Echo Bot\\EchoBot.csproj": {}
   },
   "projects": {
-    "d:\\Main Repo\\Echo Bot\\EchoBot.csproj": {
+    "D:\\Main Repo\\Echo Bot\\EchoBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Main Repo\\Echo Bot\\EchoBot.csproj",
+        "projectUniqueName": "D:\\Main Repo\\Echo Bot\\EchoBot.csproj",
         "projectName": "EchoBot",
-        "projectPath": "d:\\Main Repo\\Echo Bot\\EchoBot.csproj",
+        "projectPath": "D:\\Main Repo\\Echo Bot\\EchoBot.csproj",
         "packagesPath": "C:\\Users\\arunm\\.nuget\\packages\\",
-        "outputPath": "d:\\Main Repo\\Echo Bot\\obj\\",
+        "outputPath": "D:\\Main Repo\\Echo Bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
