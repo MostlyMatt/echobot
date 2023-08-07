@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'echobot-matt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E438F49491CC4A32A4706E221D880BB5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A25EEBB0DEDC427186D19C5FB5369834 }}
           package: .
